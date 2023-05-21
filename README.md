@@ -35,8 +35,8 @@ Here are some ideas to get you started:
 
 📕 **Latest Posts**
 <!-- POST-LIST:START -->
-- [Self hosting an MLOps Platform V](https://agallego.achlys.tech/posts/aqimadrid);
-- [Self hosting an MLOps Platform IV](https://agallego.achlys.tech/posts/baremetal4);
-- [Self hosting an MLOps Platform III](https://agallego.achlys.tech/posts/baremetal3);
-- [List all posts](https://agallego.achlys.tech/posts).
+- [Self hosting an MLOps Platform V](https://agallego.achlys.tech/posts/aqimadrid)
+- [Self hosting an MLOps Platform IV](https://agallego.achlys.tech/posts/baremetal4)
+- [Self hosting an MLOps Platform III](https://agallego.achlys.tech/posts/baremetal3)
+- [List all posts](https://agallego.achlys.tech/posts)
 <!-- POST-LIST:END -->
