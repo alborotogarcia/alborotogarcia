@@ -30,8 +30,6 @@ Here are some ideas to get you started:
 **Be welcome to my profile on Github. :octocat:**
 <p>In here, you will have access to some of my latest projects. Please, feel free to send me suggestions, critics, and improvements.</p>
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alborotogarcia&layout=compact)
-
 ## 🚀💻 Technologies & Tools
 
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
@@ -67,4 +65,7 @@ Here are some ideas to get you started:
 - [Self hosting an MLOps Platform III](https://agallego.achlys.tech/posts/baremetal3)
 - [List all posts](https://agallego.achlys.tech/posts)
 <!-- POST-LIST:END -->
+
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alborotogarcia&layout=compact)
+
 
