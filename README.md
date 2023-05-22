@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 
 # ⭐ Alvaro Gallego
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=alborotogarcia)
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=alborotogarcia&countColor=%23263759&style=flat-square)
 ![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvaro-gallego/)](https://www.linkedin.com/in/alvaro-gallego/)
@@ -35,14 +36,14 @@ Here are some ideas to get you started:
   ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
   ![Git](https://img.shields.io/badge/Git-black?style=flat-square&logo=git)
   ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
-  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=heroku)
+  ![Heroku](https://img.shields.io/badge/Heroku-black?style=flat-square&logo=heroku)
   ![Docker](https://img.shields.io/badge/Docker-black?style=flat-square&logo=docker)
   ![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=flat-square&logo=kubernetes)
   ![Terraform](https://img.shields.io/badge/Terraform-black?style=flat-square&logo=terraform)
   ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
   ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 
-  ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=openjdk)
+  ![Java](https://img.shields.io/badge/Java-black?style=flat-square&logo=openjdk)
   ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python)
   ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
   
