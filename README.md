@@ -58,6 +58,7 @@ Here are some ideas to get you started:
 [![Google Cloud Professional Data Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/66266838)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/66266838)
 [![Google Cloud Professional Cloud Architect](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/67389131)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/67389131)
 [![Google Cloud Professional Machine Learning Engineer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/70344377)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/70344377)
+[![Google Cloud Authorized Trainer](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/80638761)](https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/80638761)
 
 📕 **Latest Posts**
 <!-- POST-LIST:START -->
